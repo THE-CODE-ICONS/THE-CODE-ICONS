@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @THE-CODE-ICONS { Abhishek Meena }
 - 👀 I’m interested in ... Programming
-- 🌱 I’m currently learning ... C++
+- 🌱 I’m currently learning ... Solidity
 - 📫 How to reach me ... 
 
 <!---
